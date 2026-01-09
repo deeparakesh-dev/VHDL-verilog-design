@@ -1,1 +1,2 @@
 -- Logic gates design 
+--AND,OR,NOT,XOR,XNOR,NAND
